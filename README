@@ -2,3 +2,15 @@ README
 ------
 
 This is a twisted finger tutorial walkthrough.
+
+General
+-------
+
+* Finger protocol: RFC 742 (1977)
+* Finger User Information Protocol: RFC 1288 (1991)
+* Typical server: fingerd
+* Displays also: ~/.project, ~/.plan
+* Robert Morris exploited overflow for Morris worm
+* Finger doesn't play nice with NAT
+* History: http://groups.google.com/group/alt.folklore.computers/msg/a0db22df7c412e0a
+
