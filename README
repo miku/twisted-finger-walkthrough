@@ -8,6 +8,12 @@ Part 1
     * listings/finger/finger{01-11}.(py|tac)
     * http://twistedmatrix.com/documents/current/core/howto/tutorial/intro.html
 
+Part 2
+------
+
+	* listings/finger/finger{12-17}.tac|fingerXRclient.py
+	* Persistence, resource, web, irc, xmlrpc
+
 General
 -------
 
